@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
-    "start-js": "nodemon app.js"
+    "start-js": "nodemon index.js"
   },
   "dependencies": {
     "bignumber.js": "^9.1.2",
